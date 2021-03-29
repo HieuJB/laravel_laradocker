@@ -1,5 +1,5 @@
 # Huong dan setup
-- tai xuong 
+- tai xuong https://drive.google.com/file/d/1nUijloqbemE9C5NZ2YbGlhsQBnKS4aVP/view?usp=sharing
 - tao 1 thu muc trong
 - vao thu muc laradock run docker
 docker-compose up -d nginx redis workspace mariadb phpmyadmin
