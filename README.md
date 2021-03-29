@@ -14,3 +14,9 @@ DB_PORT=3306
 DB_DATABASE=happy_eyes
 DB_USERNAME=root
 DB_PASSWORD=root
+
+neu chay file bi loi thi setup /
+File and directory owners (User and Groups) must be laradock : laradock :
+
+docker-compose exec workspace bash
+chown -R laradock:laradock /var/www
